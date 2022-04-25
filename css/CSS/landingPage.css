@@ -32,6 +32,10 @@ nav a{
     display: flex;
     flex-direction: row;
 }
+
+.image-class{
+    filter:grayscale(100%);
+}
 .title-div{
     text-align: center;
 }.title-div p{
